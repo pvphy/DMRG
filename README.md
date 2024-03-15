@@ -1,2 +1,2 @@
 # DMRG
-DMRG impletation From ITensor
+DMRG with ITensor library
